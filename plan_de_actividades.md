@@ -29,3 +29,9 @@ Se integraría como el **corazón de la colaboración**. En un entorno real:
 ### o ¿Qué aspectos del trabajo colaborativo aprendiste que podrías aplicar en el desarrollo de software dentro de un equipo profesional?
 Aprendí la importancia crítica de **la revisión de código**. Aunque no hubo revisores reales, la necesidad de estructurar el trabajo para una futura PR me hizo escribir **mensajes de commit** más claros y **organizar** las modificaciones lógicas. En un equipo profesional, esto se traduce en **evitar que se integren errores** o código de baja calidad y en **compartir conocimiento** entre pares.
 ## FIN DE LA PLANEACION - PRUEBA GIT
+## Responsables y Roles
+Analista de Requerimientos: JesusDavid
+
+Diseñador UX/UI: JesusDavid
+
+Desarrollador Backend: JesusDavid
